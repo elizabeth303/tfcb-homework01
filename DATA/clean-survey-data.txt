@@ -1,12 +1,12 @@
 Date collected	Species	Plot	Sex	Weight	Notes on weight
 2013-07-16	DM	2	F	Null	Null
-2013-07-16	DM	7	M	33g	Null
+2013-07-16	DM	7	M	33	Null
 2013-07-16	DM	3	M	Null	Null
 2013-07-16	DM	1	M	Null	Null
-2013-07-18	DM	3	M	40g	Null
-2013-07-18	DM	7	M	48g	Null
-2013-07-18	DM	4	F	29g	Null
-2013-07-18	DM	6	F	37g	Null
+2013-07-18	DM	3	M	40	Null
+2013-07-18	DM	7	M	48	Null
+2013-07-18	DM	4	F	29	Null
+2013-07-18	DM	6	F	37	Null
 2013-08-19	DO	8	F	52	Null
 2013-10-17	DO	3	F	33	Null
 2013-10-17	DO	3	F	50	Null
@@ -15,8 +15,8 @@ Date collected	Species	Plot	Sex	Weight	Notes on weight
 2013-12-11	DO	8	F	41	Null
 2013-11-12	DS	9	F	117	Null
 2013-11-13	DS	11	F	126	Null
-2013-11-13	DS	17	M	132	 scale not calibrated
-2013-11-13	DS	14	F	113	 scale not callibtrated
+2013-11-13	DS	17	M	132	scale not calibrated
+2013-11-13	DS	14	F	113	scale not callibtrated
 2013-11-13	DS	11	F	122	Null
 2013-11-13	DS	4	F	107	Null
 2013-11-13	DS	4	F	115	Null
@@ -30,9 +30,9 @@ Date collected	Species	Plot	Sex	Weight	Notes on weight
 2014-01-08	PF	2	F	7	Null
 2014-01-08	DM	2	M	45	Null
 2014-01-08	OT	2	Null	Null	Null
-2014-01-08	DS	2	M	157	 scale not calibrated
+2014-01-08	DS	2	M	157	scale not calibrated
 2014-01-08	OX	2	Null	Null	Null
-2014-02-18	NA	2	M	218	 scale not calibrated
+2014-02-18	NA	2	M	218	scale not calibrated
 2014-02-18	PF	2	F	7	Null
 2014-02-18	DM	2	M	52	Null
 2015-03-11	PF	3	M	8	Null
